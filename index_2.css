@@ -107,7 +107,7 @@
 .not-show{
     filter: blur(6px);
     -webkit-filter: blur(6px);
-    margin-top: 20%;
+    margin-top: 10%;
 }
 
 .pop-up{
