@@ -60,3 +60,35 @@
     margin: auto;
 }
 
+.div1{
+    position: absolute;
+    top: 15px;
+    right: 0;
+    font-size: 25px;
+    width: 85%;
+    text-align: left;
+    height: 15%;
+    color: lightcoral;
+    border-bottom: 1px solid black;
+}
+
+.div2{
+    width: 90%;
+    height:10% ;
+    font-size: 20px;
+    color: black;
+    text-align: right;
+    position: absolute;
+    top: 35%;
+    font-weight: bold;
+    text-decoration: lightcoral line-through;
+}
+
+.div3{
+    width: 90%;
+    height: 10%;
+    position: absolute;
+    top: 55%;
+    text-align: left;
+    font-size: 22px;
+}
