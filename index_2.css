@@ -99,6 +99,11 @@
     margin-left: 10px;
 }
 
+
+.parent_card{
+    display: flex;
+}
+
 .not-show{
     filter: blur(6px);
     -webkit-filter: blur(6px);
@@ -107,7 +112,7 @@
 
 .pop-up{
     position: absolute;
-    top: 150%;
+    top: 50%;
     left: 37%;  /*37  25%  37   right middle left*/
     height: 25vh;
     width: 25%;
