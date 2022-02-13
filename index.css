@@ -93,6 +93,17 @@
     font-size: 22px;
 }
 
+
+#btn-click{
+    background-color: white;
+    color: #ff5e74;
+    border: 1px solid #a1a1a1;
+    padding: 10px;
+    margin-top: 35px;
+    margin-left: 45%;
+    box-shadow: 3px 2px 5px 0 #ff5e74;
+}
+
 #check{
     width: 18px;
     height: 18px;
@@ -454,12 +465,3 @@
 }
 
 
-#btn-click{
-    background-color: white;
-    color: #ff5e74;
-    border: 1px solid #a1a1a1;
-    padding: 10px;
-    margin-top: 35px;
-    margin-left: 45%;
-    box-shadow: 3px 2px 5px 0 #ff5e74;
-}
