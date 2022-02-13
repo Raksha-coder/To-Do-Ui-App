@@ -107,7 +107,7 @@
 
 .pop-up{
     position: absolute;
-    top: 50%;
+    top: 150%;
     left: 37%;  /*37  25%  37   right middle left*/
     height: 25vh;
     width: 25%;
