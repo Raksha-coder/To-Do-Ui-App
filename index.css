@@ -250,6 +250,12 @@
     margin-top: 20%;
 }
 
+.not-show-one{
+    filter: blur(6px);
+    -webkit-filter: blur(6px);
+    margin-top: 10%;
+}
+
 .pop-up{
     position: absolute;
     top: 150%;
